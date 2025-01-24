@@ -1,7 +1,7 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
-const output = "../webpack/dist"
+const output = "public"
 const pages = {
   main: "index"
 }
